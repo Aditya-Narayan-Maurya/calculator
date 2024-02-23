@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Lato:ital,wght@1,900&family=Nunito:wght@300&display=swap');
+
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Inter', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Nunito', sans-serif;
+}
+.button{
+    padding: 20px;
+    margin: 1px 2px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 53px;
+
+}
+
+.row input{
+    font-size: 19px;
+    margin: 10px;
+    padding: 23px 2px;
+    border: 2px solid black;
+    border-radius: 7px;
+}
